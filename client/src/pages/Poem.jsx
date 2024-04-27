@@ -51,13 +51,15 @@ catch (error) {
             <section>
         <main>
         <h1>Write your Poem </h1>
+        
             <div className="section-contact">
                 <div className="container grid grid-two-cols">
                     <div className="contact-image">
-                        <img src="src/images/poem.jpg" alt="fill the contact form" width="400px" height="400px"/>
+                        <img src="src/images/poem.jpg" alt="write your poem" width="400px" height="400px"/>
                     </div>
                     <div className="contact-form">
                         <br/>
+                        <h2>your poem will be posted on our website</h2>
                         <form onSubmit={handleSubmit}>
                             <div>
                             <br></br>
