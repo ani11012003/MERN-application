@@ -13,9 +13,6 @@ origin:"http://127.0.0.1:5173",
 methods:"GET,POST,PUT,DELETE,PATCH",
 credentials:true
 };
-app.get("/",(req,res,next) => {
-    res.send("hello");
- })
 app.use(cors(corsOptions));
 app.use(express.json());// json middleware
 app.use("/api/auth",authRoute);
