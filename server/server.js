@@ -9,7 +9,7 @@ const connectDb=require("./utils/db.js")
 const errorMiddleware=require("./middlewares/error-middleware.js");
 const poemRoute=require("./router/poem-router");
 const corsOptions={
-origin:"https://mern-application-react.vercel.app",
+origin:"https://mern-application-frontend.vercel.app",
 methods:"GET,POST,PUT,DELETE,PATCH",
 credentials:true
 };
