@@ -64,7 +64,7 @@ const Contact=()=>{
             <div className="section-contact">
                 <div className="container grid grid-two-cols">
                     <div className="contact-image">
-                        <img src="src/images/contactus.jpg" alt="fill the contact form" width="400px" height="400px"/>
+                        <img src="public/contactus.jpg" alt="fill the contact form" width="400px" height="400px"/>
                     </div>
                     <div className="contact-form">
                         <br/>
