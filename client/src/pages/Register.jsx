@@ -58,7 +58,7 @@ const Register=()=>{
             <div className="section-registration">
                 <div className="container grid grid-two-cols">
                     <div className="registration-image">
-                        <img src="" alt="fill the registration form" width="500px" height="500px"/>
+                        <img src="public/register.jpg" alt="fill the registration form" width="500px" height="500px"/>
                     </div>
                     <div className="registration-form">
                         <h1 className="main-heading mb-3">Registration form</h1>
