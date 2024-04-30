@@ -57,7 +57,7 @@ const Login=()=>{
             <div className="section-login">
                 <div className="container grid grid-two-cols">
                     <div className="login-image">
-                        <img src="/public/login.png" alt="fill the login form" width="500px" height="500px"/>
+                        <img src="/login.png" alt="fill the login form" width="500px" height="500px"/>
                     </div>
                     <div className="login-form">
                         <h1 className="main-heading mb-3">Login form</h1>

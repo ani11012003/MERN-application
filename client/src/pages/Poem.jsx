@@ -55,7 +55,7 @@ catch (error) {
             <div className="section-contact">
                 <div className="container grid grid-two-cols">
                     <div className="contact-image">
-                        <img src="public/poem.jpg" alt="write your poem" width="400px" height="400px"/>
+                        <img src="/poem.jpg" alt="write your poem" width="400px" height="400px"/>
                     </div>
                     <div className="contact-form">
                         <br/>
